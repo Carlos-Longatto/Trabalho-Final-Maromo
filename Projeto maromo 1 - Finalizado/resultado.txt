@@ -1,0 +1,10 @@
+Numero do Candidato:	 14222 	Quantidade de Acertos:	49
+Numero do Candidato:	 14411 	Quantidade de Acertos:	22
+Numero do Candidato:	 12134 	Quantidade de Acertos:	14
+Numero do Candidato:	 12322 	Quantidade de Acertos:	12
+Numero do Candidato:	 12324 	Quantidade de Acertos:	12
+Numero do Candidato:	 12233 	Quantidade de Acertos:	12
+Numero do Candidato:	 14414 	Quantidade de Acertos:	11
+Numero do Candidato:	 12353 	Quantidade de Acertos:	9
+Numero do Candidato:	 12131 	Quantidade de Acertos:	8
+Numero do Candidato:	 13311 	Quantidade de Acertos:	8

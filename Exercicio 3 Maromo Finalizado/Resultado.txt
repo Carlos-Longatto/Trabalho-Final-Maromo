@@ -1,0 +1,22 @@
+Nome do Cliente: Carlos Eduardo
+Numero do CPF: 12345678927
+Numero da conta: 1234
+Valor Inicial da Conta: R$ 2500.00
+
+Operacao 1 = Saque -- Operacao 2 = Deposito
+
+Transacao Numero :1
+ R$ 5000.00
+ Operacao: 2
+ Saldo Atual: R$ 7500.00
+
+Transacao Numero :2
+ R$ 1250.00
+ Operacao: 1
+ Saldo Atual: R$ 6250.00
+
+Transacao Numero :3
+ R$ 1250.00
+ Operacao: 1
+ Saldo Atual: R$ 5000.00
+
